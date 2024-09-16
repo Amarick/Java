@@ -26,13 +26,13 @@ public class somatoria {
 
         somaProdutos = (produto1 + produto2 + produto3 + produto4 + produto5);
 
-        System.out.print("Valor á pagar: R$" + String.format("%.2f", somaProdutos));
+        System.out.printf("Valor á pagar: R$" + String.format("%.2f", somaProdutos));
         System.out.print(" Entre com o valor do Pagamento: R$");
         sc.nextLine();
         pagamento = sc.nextDouble();
 
         
-        System.out.println((" O pagamento no valor de R$" + String.format( "%.2f ", pagamento)) + " foi Recebido");
+        System.out.printf((" O pagamento no valor de R$" + String.format( "%.2f ", pagamento)) + " foi Recebido");
     
         troco = pagamento - somaProdutos;
         System.out.print("Seu troco: R$" + troco) ;
