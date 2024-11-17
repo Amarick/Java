@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-fundamentos/estrutura_repeticao/DoWhile/DoWhile.iml" filepath="$PROJECT_DIR$/java-fundamentos/estrutura_repeticao/DoWhile/DoWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-fundamentos/estrutura_condicional/condicional/condicional.iml" filepath="$PROJECT_DIR$/java-fundamentos/estrutura_condicional/condicional/condicional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-fundamentos/estrutura_sequencial/estrutura_sequencial.iml" filepath="$PROJECT_DIR$/java-fundamentos/estrutura_sequencial/estrutura_sequencial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-fundamentos/estrutura_condicional/exercicios/exercicios.iml" filepath="$PROJECT_DIR$/java-fundamentos/estrutura_condicional/exercicios/exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello/hello.iml" filepath="$PROJECT_DIR$/hello/hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-fundamentos/java-anatomia-classes/java-anatomia-classes.iml" filepath="$PROJECT_DIR$/java-fundamentos/java-anatomia-classes/java-anatomia-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-fundamentos/java-basico/java-basico.iml" filepath="$PROJECT_DIR$/java-fundamentos/java-basico/java-basico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-fundamentos/primeiro_programa/primeiro_programa.iml" filepath="$PROJECT_DIR$/java-fundamentos/primeiro_programa/primeiro_programa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-fundamentos/tabuada/tabuada.iml" filepath="$PROJECT_DIR$/java-fundamentos/tabuada/tabuada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-fundamentos/teste_processamento/teste_processamento.iml" filepath="$PROJECT_DIR$/java-fundamentos/teste_processamento/teste_processamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-fundamentos/tipos-variaveis/tipos-variaveis.iml" filepath="$PROJECT_DIR$/java-fundamentos/tipos-variaveis/tipos-variaveis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-fundamentos/estrutura_repeticao/while/while.iml" filepath="$PROJECT_DIR$/java-fundamentos/estrutura_repeticao/while/while.iml" />
+    </modules>
+  </component>
+</project>
